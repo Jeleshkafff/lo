@@ -1,0 +1,42 @@
+.title {
+  font-family: "Koulen", cursive;
+}
+.titleName {
+  font-family: "Quicksand", sans-serif;
+}
+.addBtn {
+  font-family: "Quicksand", sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+
+  background-color: rgb(255, 229, 237);
+  background-image: -o-linear-gradient(
+    bottom,
+    rgb(255, 229, 237) 0%,
+    rgb(224, 255, 233) 100%
+  );
+  background-image: -moz-linear-gradient(
+    bottom,
+    rgb(255, 229, 237) 0%,
+    rgb(224, 255, 233) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    bottom,
+    rgb(255, 229, 237) 0%,
+    rgb(224, 255, 233) 100%
+  );
+  background-image: -ms-linear-gradient(
+    bottom,
+    rgb(255, 229, 237) 0%,
+    rgb(224, 255, 233) 100%
+  );
+  background-image: linear-gradient(
+    bottom,
+    rgb(255, 229, 237) 0%,
+    rgb(224, 255, 233) 100%
+  );
+}
